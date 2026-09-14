@@ -52,8 +52,8 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/MiguelGrigorio/is-wire-py"
-Repository = "https://github.com/MiguelGrigorio/is-wire-py"
+Homepage = "https://github.com/LabSEA/is-wire-sea"
+Repository = "https://github.com/LabSEA/is-wire-sea"
 
 [tool.setuptools]
 package-dir = { "" = "src" }
